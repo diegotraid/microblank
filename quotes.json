@@ -1,11 +1,11 @@
 {
-  'morning': [
-    '¿Listo para comenzar con un poco de Roots Reggae?'
+  "morning": [
+    "¿Listo para comenzar con un poco de Roots Reggae?"
   ], 
-  'afternoon': [
-    '¿Que onda la tarde, ya estás hinchado las pelotas?'
+  "afternoon": [
+    "¿Que onda la tarde, ya estás hinchado las pelotas?"
   ], 
-  'night': [
-    'Deberías estar durmiendo y no boludeando acá'
+  "night": [
+    "Deberías estar durmiendo y no boludeando acá"
   ]
 }
